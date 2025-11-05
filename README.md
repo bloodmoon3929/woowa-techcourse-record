@@ -2,6 +2,8 @@
 우아한 테크 코스 8기의 프리코스를 진행하며 공부한 내용을 주차별로 정리한 레포입니다.
 
 ## 작성한 과제 코드
+[1주차 - java-calculator](https://github.com/bloodmoon3929/java-calculator-8/tree/bloodmoon3929)
+
 
 ## 회고록 & 후기
 
