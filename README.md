@@ -3,6 +3,7 @@
 
 ## 작성한 과제 코드
 [1주차 - java-calculator](https://github.com/bloodmoon3929/java-calculator-8/tree/bloodmoon3929)
+[2주차 - java-racingcar](https://github.com/bloodmoon3929/java-racingcar-8/tree/bloodmoon3929)
 
 
 ## 회고록 & 후기
