@@ -11,6 +11,7 @@
 
 
 ## 회고록 & 후기
+[1주차 과제 회고](./Week1%20(25.10.14~25.10.20)/1주차_과제_회고.md)
 
 ## 주차별 피드백
 [1주차 피드백](./feedback/1Week_feedback.md)
@@ -21,15 +22,13 @@
 
 ## 공부한 내용
 ### 정리 완료
-[Google Java Style Guidee](./Week1%20(25.10.14~25.10.20)/Google%Java%Style%Guidee.md)
+[Google Java Style Guidee](./Week1%20(25.10.14~25.10.20)/Google_Java_Style_Guidee.md)
 
-[IntellJ 문제 해결]()
+[IntellJ 문제 해결](./Week1%20(25.10.14~25.10.20)/IntelliJ_문제_해결.md)
 
-[Jira]()
+[mermaid](./Week2%20(25.10.21~25.10.27)/mermaid.md)
 
-[mermaid]()
-
-[OpenMediaVault]()
+[OpenMediaVault](./Week4~5%20(25.11.4~25.11.17)/OpenMediaVault.md)
 
 ### 정리 미 완료
 [Enum 열거형]()
@@ -39,3 +38,5 @@
 [MVC 패턴]()
 
 [Test 케이스]()
+
+[Jira](./Week2%20(25.10.21~25.10.27)/Jira.md)
