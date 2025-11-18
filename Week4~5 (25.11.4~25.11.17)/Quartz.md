@@ -68,7 +68,7 @@ Ads 삽입 예시
 
 사이트가 정적이기 때문에 Ads 삽입이 매우 간단하다.
 
-## [Google Search Engine (검색엔진/서치 콘솔)](./google_search_engine.md)
+## [Google Search Console](https://blog.jagaldol.com/blog/blog-google-seo-setting/)
 구글 검색 노출을 위해서는 다음을 추가해야 한다:
 ```
 quartz.config.ts에 사이트 URL 설정
