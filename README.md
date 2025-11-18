@@ -34,15 +34,16 @@
 
 [mermaid](./Week2%20(25.10.21~25.10.27)/mermaid.md)
 
+[Jira](./Week2%20(25.10.21~25.10.27)/Jira.md)
+
 [OpenMediaVault](./Week4~5%20(25.11.4~25.11.17)/OpenMediaVault.md)
 
 ### 정리 미 완료
-[Enum 열거형]()
+[Enum 열거형](./Week1%20(25.10.14~25.10.20)/Enum_열거형.md)
 
-[git]()
+[git](./Week1%20(25.10.14~25.10.20)/git.md)
 
+[DDD패턴](./Week3%20(25.10.28~25.11.3)/DDD패턴.md)
 
+[Test 케이스](./Week3%20(25.10.28~25.11.3)/junit.md)
 
-[Test 케이스]()
-
-[Jira](./Week2%20(25.10.21~25.10.27)/Jira.md)
