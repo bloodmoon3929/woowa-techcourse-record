@@ -1,13 +1,16 @@
 # woowa-techcourse-record
 우아한 테크 코스 8기의 프리코스를 진행하며 공부한 내용을 주차별로 정리한 레포입니다.
 
-## 작성한 과제 코드
+## 기간
+- 2025.10.14 ~ 2025.11.17
 
-[1주차 - java-calculator](https://github.com/bloodmoon3929/java-calculator-8/tree/bloodmoon3929)
-
-[2주차 - java-racingcar](https://github.com/bloodmoon3929/java-racingcar-8/tree/bloodmoon3929)
-
-[3주차 - java-lotto](https://github.com/bloodmoon3929/java-lotto-8/tree/bloodmoon3929)
+## 진행한 미션
+|Project|Repository|Pull Request|
+|-------|----------|------------|
+|문자열 덧셈기|[java-calculator-8](https://github.com/bloodmoon3929/java-calculator-8/tree/bloodmoon3929)|[PR](https://github.com/woowacourse-precourse/java-calculator-8/pull/187)|
+|자동차 경주|[java-racingcar-8](https://github.com/bloodmoon3929/java-racingcar-8/tree/bloodmoon3929)|[PR](https://github.com/woowacourse-precourse/java-racingcar-8/pull/89)|
+|로또|[java-lotto-8](https://github.com/bloodmoon3929/java-lotto-8/tree/bloodmoon3929)|[PR](https://github.com/woowacourse-precourse/java-lotto-8/pull/6)|
+|오픈 미션||---|
 
 
 ## 회고록 & 후기
@@ -28,6 +31,8 @@
 ### 정리 완료
 [Google Java Style Guidee](./Week1%20(25.10.14~25.10.20)/Google_Java_Style_Guidee.md)
 
+[git](./Week1%20(25.10.14~25.10.20)/git.md)
+
 [IntellJ 문제 해결](./Week1%20(25.10.14~25.10.20)/IntelliJ_문제_해결.md)
 
 [Enum 열거형](./Week1%20(25.10.14~25.10.20)/Enum_열거형.md)
@@ -43,9 +48,6 @@
 [OpenMediaVault](./Week4~5%20(25.11.4~25.11.17)/OpenMediaVault.md)
 
 ### 정리 미 완료
-
-
-[git](./Week1%20(25.10.14~25.10.20)/git.md)
 
 [Test 케이스](./Week3%20(25.10.28~25.11.3)/junit.md)
 
