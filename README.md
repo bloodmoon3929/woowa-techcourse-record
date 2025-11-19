@@ -49,12 +49,10 @@
 
 [Quartz.md](./Week4~5%20(25.11.4~25.11.17)/Quartz.md)
 
+[googleAD](./Week4~5%20(25.11.4~25.11.17)/googleAD.md)
+
 ### 정리 미 완료
 
 [Test 케이스](./Week3%20(25.10.28~25.11.3)/junit.md)
 
 [4주차 과제 회고](./Week4~5%20(25.11.4~25.11.17)/4~5주차_과제_회고.md)
-
-[googleAD](./Week4~5%20(25.11.4~25.11.17)/googleAD.md)
-
-[google search engine](./Week4~5%20(25.11.4~25.11.17)/google_search_engine.md)
