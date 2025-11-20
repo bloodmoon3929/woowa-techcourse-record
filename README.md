@@ -10,7 +10,7 @@
 |문자열 덧셈기|[java-calculator-8](https://github.com/bloodmoon3929/java-calculator-8/tree/bloodmoon3929)|[PR](https://github.com/woowacourse-precourse/java-calculator-8/pull/187)|
 |자동차 경주|[java-racingcar-8](https://github.com/bloodmoon3929/java-racingcar-8/tree/bloodmoon3929)|[PR](https://github.com/woowacourse-precourse/java-racingcar-8/pull/89)|
 |로또|[java-lotto-8](https://github.com/bloodmoon3929/java-lotto-8/tree/bloodmoon3929)|[PR](https://github.com/woowacourse-precourse/java-lotto-8/pull/6)|
-|오픈 미션||---|
+|오픈 미션|[Obsidian-sync-blog](https://github.com/bloodmoon3929/Obsidian-sync-blog/tree/v4)|---|
 
 
 ## 회고록 & 후기
@@ -45,6 +45,8 @@
 
 [Jira](./Week2%20(25.10.21~25.10.27)/Jira.md)
 
+[Test 케이스](./Week3%20(25.10.28~25.11.3)/junit.md)
+
 [OpenMediaVault](./Week4~5%20(25.11.4~25.11.17)/OpenMediaVault.md)
 
 [Quartz.md](./Week4~5%20(25.11.4~25.11.17)/Quartz.md)
@@ -52,7 +54,5 @@
 [googleAD](./Week4~5%20(25.11.4~25.11.17)/googleAD.md)
 
 ### 정리 미 완료
-
-[Test 케이스](./Week3%20(25.10.28~25.11.3)/junit.md)
 
 [4주차 과제 회고](./Week4~5%20(25.11.4~25.11.17)/4~5주차_과제_회고.md)
